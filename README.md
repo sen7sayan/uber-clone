@@ -55,7 +55,7 @@ The request body should be in JSON format and include the following fields:
   "email": "user@example.com",
   "password": "password123"
 }
-
+```
 ### Example Response
 
 - `user` (object):  
@@ -79,5 +79,5 @@ The request body should be in JSON format and include the following fields:
     }
   }
 }
-
+```
 
